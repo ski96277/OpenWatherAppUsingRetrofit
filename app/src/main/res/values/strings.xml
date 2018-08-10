@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenWatherApp Using Retrofit</string>
+
+    <string name="Weather_app_ID">ab1f919d021e76086bbdf2761777438d</string>
+</resources>
